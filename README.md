@@ -1,5 +1,3 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JooHee's+GitHub!👋)](https://git.io/typing-svg)
@@ -8,12 +6,9 @@
  
  ---
      
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/ejoohee)
-
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejoohee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/ejoohee)
 
 [![JooHee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejoohee&theme=nord&hide_border=true&count_private=true)](https://github.com/ejoohee/github-readme-stats)
- 
-
  
 <br>
 
@@ -22,13 +17,11 @@
     <a href="https://www.notion.so/aea3ca4ed137434abe65c96427ed25cb">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  
 </div><br>
-
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="[https://www.instagram.com/](https://www.instagram.com/zuuuu_e/)">
+    <a href="https://www.instagram.com/zuuuu_e/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:joo9837hee@gmail.com">
