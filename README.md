@@ -12,6 +12,11 @@
  
 <br>
 
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=joo307)](https://solved.ac/joo307)
+
+ <br>
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/aea3ca4ed137434abe65c96427ed25cb">
@@ -58,6 +63,3 @@
 </div><br>
 </div>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=joo307)](https://solved.ac/joo307)
-
- 
