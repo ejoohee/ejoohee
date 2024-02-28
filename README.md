@@ -20,7 +20,7 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
 <!--     <a href="https://www.notion.so/aea3ca4ed137434abe65c96427ed25cb"> -->
-      <a href="https://pacific-lunch-15a.notion.site/f0e8753ced82440cbfde8cdbad5fde3e?pvs=4">
+<!--       <a href="https://pacific-lunch-15a.notion.site/f0e8753ced82440cbfde8cdbad5fde3e?pvs=4"> -->
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>
